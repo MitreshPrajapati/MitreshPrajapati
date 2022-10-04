@@ -7,11 +7,14 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Mitresh+%F0%9F%91%8B;Full+stack+Developer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
     </div>
 </div>
+
+ <div align="left"> <img src="https://komarev.com/ghpvc/?username=MitreshPrajapati&label=Profile%20views&color=0e75b6&style=flat" alt="mitresh" /> </div>
 <h2>🚀 About Me</h2>
 <div >
   <div width="40%">
   I am a full-stack web developer specialized in MERN stack. Keen to create new and innovative websites by showcasing my skills. Apart from that a great team player ability to work with different kinds of people.
   </div>
+ 
  <ul>
             <li>🌱 <b>I’m currently learning</b>: Full-stack Web Developmet at Masai.</li>
             <li>🎯 <b>I’m currently focusing on</b>:Learning new things.</li>
@@ -49,10 +52,12 @@
 
 
 <h2> 🔝 Most used languages</h2>
+
  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MitreshPrajapati&layout=compact" />
 
 
 <h2 align="center">📊 My Github Stats<h2>
+
 <div>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MitreshPrajapati&theme=dark" alt="Mitresh" height="250px" width="47%" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=MitreshPrajapati&show_icons=true&theme=dark" height="255px" width="47%"/>
