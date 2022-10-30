@@ -65,10 +65,7 @@
 </br>
 
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mitresh-prajapati/"> 
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
-</div>
+
 
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
