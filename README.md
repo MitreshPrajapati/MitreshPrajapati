@@ -14,7 +14,8 @@
   <div width="40%">
   I am a full-stack web developer specialized in MERN stack. Keen to create new and innovative websites by showcasing my skills. Apart from that a great team player ability to work with different kinds of people.
   </div>
- 
+ <br/>
+ <br/>
  <ul>
             <li>🌱 <b>I’m currently learning</b>: Full-stack Web Developmet.</li>
             <li>🎯 <b>I’m currently focusing on</b>: Learning new things.</li>
@@ -25,6 +26,7 @@
         </ul>
 </div>
 
+<br/>
 
 <h2> 🤝 Connect with me:</h2>
  
@@ -32,6 +34,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitresh-prajapati/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mitreshverma@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+918860919561)
+
+<br/>
+
 
    <h2>🧑‍💻 Languages and ⚒️ Tools...</h2>
 <p align="left">
@@ -47,19 +52,22 @@
    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" style="vertical-align:top; margin:4px">
  
 </p>
-
+<br/>
 
 <h2>💻 Workspace</h2>
 
 [![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://mitreshprajapati.github.io/)
 
 
+ <br/>
 
 <h2> 🔝 Most used languages</h2>
 
  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MitreshPrajapati&layout=compact" />
 
 
+<br/>
+ <br/>
 <h2 align="center">📊 My Github Stats<h2>
 
 <div>
