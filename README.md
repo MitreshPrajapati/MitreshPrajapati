@@ -16,6 +16,9 @@
   </div>
  <br/>
  <br/>
+ <a target="_blank" align="center">
+  <img align="right" top="500" height="250" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="border:1px solid red">
+</a>
  <ul>
             <li>🌱 <b>I’m currently learning</b>: Full-stack Web Developmet.</li>
             <li>🎯 <b>I’m currently focusing on</b>: Learning new things.</li>
