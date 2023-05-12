@@ -20,9 +20,9 @@
   <img align="right" top="500" height="250" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="border:1px solid red">
 </a>
  <ul>
-            <li>🌱 <b>I’m currently learning</b>: Full-stack Web Developmet.</li>
+            <li>🌱 <b>I’m currently learning</b>: Full-stack Web Development.</li>
             <li>🎯 <b>I’m currently focusing on</b>: Learning new things.</li>
-            <li>💬 <b>Ask me about </b>: HTML || CSS || Javascript || React</li>
+            <li>💬 <b>Ask me about </b>: HTML || CSS || Javascript || React || MongoDb || NodeJs</li>
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://mitreshprajapati.github.io/">LINK TO Porfolio</a>.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
             <li>😄 <b>Fun fact</b>: I love Cars(🚗), Traveling(🌍), and Photography(📷).</li>
