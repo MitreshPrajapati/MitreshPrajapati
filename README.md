@@ -4,7 +4,7 @@
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Mitresh+Prajapati+;Full+(Mern)+Stack+Web+Developer;Problem+Solver;NodeJs+Developer;Javascript+Developer" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Mitresh+Prajapati+;Full+(Mern)+Stack+Web+Developer;Problem+Solver;NodeJs+Developer;Javascript+Developer;React+Native+Developer" alt="Headline" />
     </div>
 </div>
 
@@ -20,7 +20,7 @@
   <img align="right" top="500" height="250" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" >
 </a>
  <ul>
-            <li>🌱 <b>I’m currently learning</b>: Full-stack Web Development.</li>
+            <li>🌱 <b>I’m currently learning</b>: React Native</li>
             <li>🎯 <b>I’m currently focusing on</b>: Learning new things.</li>
             <li>💬 <b>Ask me about </b>: HTML || CSS || Javascript || React || MongoDb || NodeJs</li>
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://mitreshprajapati.github.io/">My Portfolio</a>.</li>
