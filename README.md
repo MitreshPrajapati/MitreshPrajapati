@@ -20,9 +20,9 @@
   <img align="right" top="500" height="250" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" >
 </a>
  <ul>
-            <li>🌱 <b>I’m currently learning</b>: React Native</li>
+            <li>🌱 <b>I’m currently learning</b>: React Native || Nest.js </li>
             <li>🎯 <b>I’m currently focusing on</b>: Learning new things.</li>
-            <li>💬 <b>Ask me about </b>: HTML || CSS || Javascript || React || MongoDb || NodeJs</li>
+            <li>💬 <b>Ask me about </b>: Javascript || React || MongoDb || NodeJs</li>
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://mitreshprajapati.github.io/">My Portfolio</a>.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
             <li>😄 <b>Fun fact</b>: I love Cars(🚗), Traveling(🌍), and Photography(📷).</li>
@@ -46,10 +46,16 @@
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" style="vertical-align:top; margin:4px">  
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" style="vertical-align:top; margin:4px">
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" style="vertical-align:top; margin:4px">
+   <img src="https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=blue" alt="typescript" style="vertical-align:top; margin:4px">
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" style="vertical-align:top; margin:4px">
    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" style="vertical-align:top; margin:4px">
    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodeJS" style="vertical-align:top; margin:4px"> 
    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB" style="vertical-align:top; margin:4px">
+   <img src="https://img.shields.io/badge/Postgre Sql-E34F26?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" style="vertical-align:top; margin:4px">
+   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs" style="vertical-align:top; margin:4px">
+   <img src="https://img.shields.io/badge/Nest.js-D14836?style=for-the-badge&logo=nest.js&logoColor=red" alt="nestjs" style="vertical-align:top; margin:4px">
+   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=blue" alt="nestjs" style="vertical-align:top; margin:4px">
+ 
    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" style="vertical-align:top; margin:4px">
  
    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" style="vertical-align:top; margin:4px">
