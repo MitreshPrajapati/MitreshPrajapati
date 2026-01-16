@@ -23,7 +23,7 @@
             <li>🌱 <b>I’m currently learning</b>: Nest.js </li>
             <li>🎯 <b>I’m actively looking for a job.</b></li>
 <!--             <li>🎯 <b>I’m currently focusing on</b>: Learning new things.</li> -->
-            <li>💬 <b>Ask me about </b>: Javascript || React || MongoDb || NodeJs</li>
+            <li>💬 <b>Ask me about </b>: Javascript | React | MongoDb | NodeJs</li>
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://mitreshprajapati.github.io/">My Portfolio</a>.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
 <!--             <li>😄 <b>Fun fact</b>: I love Cars(🚗), Traveling(🌍), and Photography(📷).</li> -->
