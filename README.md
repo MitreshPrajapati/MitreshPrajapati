@@ -99,7 +99,7 @@ Strong focus on **code splitting, reusable components, MVC architecture**, and d
 ## 💼 Professional Experience
 
 ### **Software Developer | MERN Stack**
-**IT Company / Product-Based Project**  
+**Ijona Technologies**  
 *Duration: 2+ Years*
 
 - Developed and maintained **production-grade MERN applications**
