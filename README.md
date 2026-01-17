@@ -129,7 +129,7 @@ Strong focus on **code splitting, reusable components, MVC architecture**, and d
 ## 🎓 Education
 
 - **Bachelor of Arts (B.A.) in English (Honours)**  
-  *Undergraduate Degree*
+  *Undergraduate Degree - IGNOU*
 
 - **Full Stack Web Development Program (Graduate)**  
   **Masai School**  
