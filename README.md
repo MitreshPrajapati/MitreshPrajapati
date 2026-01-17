@@ -27,6 +27,7 @@
 </p>
 
 
+<br/>
 
 ## 👨‍💻 Professional Summary
 
@@ -34,7 +35,7 @@ MERN Stack **Software Developer with 2+ years of production experience**, specia
 
 Strong focus on **code splitting, reusable components, MVC architecture**, and delivering **business-ready features** using modern development and DevOps practices.
 
----
+<br/>
 
 ## 🧠 Technical Skills
 
@@ -121,32 +122,36 @@ Strong focus on **code splitting, reusable components, MVC architecture**, and d
 - Lazy loading, memoization, and optimized rendering
 - Reduced initial load time significantly
 
-### 🔹 Real-Time Systems
-- Chat, notifications, and live updates using WebSockets
-- Firebase & server-based real-time communication
-
 👉 *See repositories for production-level architecture and code quality*
 
 ---
 
 ## 🎓 Education
 
-- **Bachelor’s Degree / Equivalent Program**  
-  *(Non-CS background with intensive hands-on software development training)*
+- **Bachelor of Arts (B.A.) in English (Honours)**  
+  *Undergraduate Degree*
 
-> Transitioned into software development through structured learning and real-world project experience.
+- **Full Stack Web Development Program (Graduate)**  
+  **Masai School**  
+  - Intensive industry-focused training in **MERN Stack development**
+  - Hands-on experience with **frontend, backend, databases, and deployment**
+  - Built multiple real-world, production-style projects
+
+> Transitioned into software development through structured, project-based learning and real-world coding experience.
 
 ---
 
-## 📜 Certifications & Learning
+## 📜 Certifications
 
-- MERN Stack Development Certification  
-- JavaScript & TypeScript Advanced Concepts  
-- React Performance Optimization (Hooks & Architecture)  
-- Backend Development with Node.js & Express  
-- Docker & CI/CD Fundamentals  
+- **Full Stack Web Development** – Masai School  
+- **JavaScript (Basic)** – HackerRank  
+- **SQL (Basic)** – HackerRank  
+- **TypeScript** – Certified Course  
+- **Frontend Development (React)** – HackerRank  
+- **DBMS & SQL** – LeetCode  
+- **Docker** – Simplilearn  
 
-*(Details available on LinkedIn / Portfolio)*
+*(Certificates available on LinkedIn and Portfolio upon request)*
 
 ---
 
