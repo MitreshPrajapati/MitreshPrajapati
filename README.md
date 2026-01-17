@@ -1,82 +1,169 @@
-
-<div width="60%">
- <div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee." height="200">
-    </div>
-    <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Mitresh+Prajapati+;Full+(Mern)+Stack+Web+Developer;Problem+Solver;NodeJs+Developer;Javascript+Developer;React+Native+Developer" alt="Headline" />
-    </div>
-</div>
-
- <div align="left"> <img src="https://komarev.com/ghpvc/?username=MitreshPrajapati&label=Profile%20views&color=0e75b6&style=flat" alt="mitresh" /> </div>
-<h2>🚀 About Me</h2>
-<div >
-  <div width="40%">
-  I am a full-stack web developer specializing in MERN stack. Keen to create new and innovative websites by showcasing my skills. Apart from that a great team player ability to work with different kinds of people.
-  </div>
- <br/>
- <br/>
- <a target="_blank" align="center">
-  <img align="right" top="500" height="250" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" >
-</a>
- <ul>
-            <li>🌱 <b>I’m currently learning</b>: Nest.js </li>
-            <li>🎯 <b>I’m actively looking for a job.</b></li>
-<!--             <li>🎯 <b>I’m currently focusing on</b>: Learning new things.</li> -->
-            <li>💬 <b>Ask me about </b>: Javascript | React | MongoDb | NodeJs</li>
-            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://mitreshprajapati.github.io/">My Portfolio</a>.</li>
-            <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
-<!--             <li>😄 <b>Fun fact</b>: I love Cars(🚗), Traveling(🌍), and Photography(📷).</li> -->
-        </ul>
-</div>
-
-<br/>
-
-<h2> 🤝 Connect with me:</h2>
- 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://mitreshprajapati.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitresh-prajapati/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mitreshverma@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+918860919561)
-
-<br/>
-
-
-   <h2>🧑‍💻 Languages and ⚒️ Tools...</h2>
-<p align="left">
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" style="vertical-align:top; margin:4px">  
-   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" style="vertical-align:top; margin:4px">
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" style="vertical-align:top; margin:4px">
-   <img src="https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=blue" alt="typescript" style="vertical-align:top; margin:4px">
-   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" style="vertical-align:top; margin:4px">
-   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" style="vertical-align:top; margin:4px">
-   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodeJS" style="vertical-align:top; margin:4px"> 
-   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB" style="vertical-align:top; margin:4px">
-   <img src="https://img.shields.io/badge/Postgre Sql-E34F26?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" style="vertical-align:top; margin:4px">
-   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs" style="vertical-align:top; margin:4px">
-   <img src="https://img.shields.io/badge/Nest.js-D14836?style=for-the-badge&logo=nest.js&logoColor=red" alt="nestjs" style="vertical-align:top; margin:4px">
-   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=blue" alt="nestjs" style="vertical-align:top; margin:4px">
- 
-   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" style="vertical-align:top; margin:4px">
- 
-   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" style="vertical-align:top; margin:4px">
- 
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Looking%20for%20Job-brightgreen?style=for-the-badge"/>
 </p>
-<br/>
 
-<h2>💻 Workspace</h2>
+<h1 align="center">Hi 👋, I'm Mitresh Prajapati</h1>
+<h3 align="center">
+  🚀 MERN Stack Developer | JavaScript & TypeScript | Frontend Performance Specialist
+</h3>
 
-[![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://mitreshprajapati.github.io/)
+<p align="center">
+  <strong>
+    Building scalable, high-performance web applications with clean architecture,
+    reusable code, and modern JavaScript.
+  </strong>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/mitresh-prajapati" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"/>
+  </a>
+  <a href="mailto:mitreshverma@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail"/>
+  </a>
+  <a href="https://mitreshprajapati.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?logo=vercel"/>
+  </a>
+</p>
 
 
- <br/>
 
+## 👨‍💻 Professional Summary
 
+MERN Stack **Software Developer with 2+ years of production experience**, specializing in **React.js performance optimization**, scalable backend systems, and **clean, maintainable codebases**.
 
+Strong focus on **code splitting, reusable components, MVC architecture**, and delivering **business-ready features** using modern development and DevOps practices.
 
+---
 
+## 🧠 Technical Skills
 
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,redux,mui,chakraui" />
+</p>
 
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+- React.js, Next.js  
+- shadcn/ui, Chakra UI, Material UI (MUI)  
+- Code Splitting, Lazy Loading  
+- Reusable & Modular Component Design  
+- Responsive & Mobile-First UI  
 
-  
+---
+
+### 🧩 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,mongoose" />
+</p>
+
+- Node.js, Express.js, NestJS  
+- RESTful APIs  
+- MVC Architecture  
+- Authentication & Authorization (JWT, OTP)  
+- TypeORM, Mongoose  
+
+---
+
+### 🗄️ Databases & Caching
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
+</p>
+
+- MongoDB, PostgreSQL  
+- Redis (Caching & Performance)
+
+---
+
+### ⚙️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,git,postman" />
+</p>
+
+- Docker & Docker Compose   
+- API Testing (Postman)  
+
+---
+
+### 📱 Other Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=reactnative,firebase,websocket" />
+</p>
+
+- React Native  
+- Firebase (Auth, Notifications)  
+- WebSockets & Real-Time Features  
+
+---
+
+## 💼 Professional Experience
+
+### **Software Developer | MERN Stack**
+**IT Company / Product-Based Project**  
+*Duration: 2+ Years*
+
+- Developed and maintained **production-grade MERN applications**
+- Improved **frontend performance by 30–40%** using `useMemo`, `useCallback`, and code splitting
+- Built **reusable UI component libraries** to reduce development time
+- Designed **clean MVC-based backend architectures**
+- Implemented **OTP & JWT-based authentication systems**
+- Collaborated with designers, QA, and backend teams in agile environments
+- Dockerized applications for consistent development & deployment
+
+---
+
+## 📂 Key Projects (CV Highlights)
+
+### 🔹 Full-Stack MERN Applications
+- End-to-end applications with authentication, role-based access, and dashboards
+- Clean code structure with reusable services and components
+
+### 🔹 Performance-Optimized React Apps
+- Lazy loading, memoization, and optimized rendering
+- Reduced initial load time significantly
+
+### 🔹 Real-Time Systems
+- Chat, notifications, and live updates using WebSockets
+- Firebase & server-based real-time communication
+
+👉 *See repositories for production-level architecture and code quality*
+
+---
+
+## 🎓 Education
+
+- **Bachelor’s Degree / Equivalent Program**  
+  *(Non-CS background with intensive hands-on software development training)*
+
+> Transitioned into software development through structured learning and real-world project experience.
+
+---
+
+## 📜 Certifications & Learning
+
+- MERN Stack Development Certification  
+- JavaScript & TypeScript Advanced Concepts  
+- React Performance Optimization (Hooks & Architecture)  
+- Backend Development with Node.js & Express  
+- Docker & CI/CD Fundamentals  
+
+*(Details available on LinkedIn / Portfolio)*
+
+---
+
+## 🧾 Resume
+
+- 📄 **Resume:** Available on request  
+- 🌐 **Portfolio:** https://mitreshprajapati.github.io/portfolio/  
+- 💼 **LinkedIn:** https://linkedin.com/in/mitresh-prajapati  
+
+---
+
+## 🤝 Availability
+
+- ✅ Open to **Frontend / MERN Stack / Full-Stack Roles**
+- 📍 Open to Remote / Hybrid / On-site (India)
+- 🚀 Immediate to Short Notice Period
+
+<p align="center">
+  <strong>⭐ Writing clean code • Building scalable systems • Delivering real impact</strong>
+</p>
