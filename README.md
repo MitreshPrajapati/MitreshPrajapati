@@ -77,7 +77,7 @@ Strong focus on **code splitting, reusable components, MVC architecture**, and d
 
 ### ⚙️ DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,git,postman" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,gitlab,npm,yarn,vscode,postman" />
 </p>
 
 - Docker & Docker Compose   
