@@ -45,7 +45,7 @@ Strong focus on **code splitting, reusable components, MVC architecture**, and d
 </p>
 
 - React.js, Next.js  
-- shadcn/ui, Chakra UI, Material UI (MUI)  
+- shadcn/ui, Chakra UI, Material UI  
 - Code Splitting, Lazy Loading  
 - Reusable & Modular Component Design  
 - Responsive & Mobile-First UI  
