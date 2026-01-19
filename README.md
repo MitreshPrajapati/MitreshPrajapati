@@ -169,6 +169,7 @@ Strong focus on **code splitting, reusable components, MVC architecture**, and d
 - 📍 Open to Remote / Hybrid / On-site (India)
 - 🚀 Immediate to Short Notice Period
 
+<br/>
 <p align="center">
   <strong>⭐ Writing clean code • Building scalable systems • Delivering real impact</strong>
 </p>
