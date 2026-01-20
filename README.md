@@ -87,7 +87,7 @@ Strong focus on **code splitting, reusable components, MVC architecture**, and d
 
 ### 📱 Other Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=reactnative,firebase,websocket" />
+  <img src="https://skillicons.dev/icons?i=firebase,websocket" />
 </p>
 
 - React Native  
