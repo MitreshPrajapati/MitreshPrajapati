@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Mitresh Prajapati</h1>
 <h3 align="center">
-  🚀 MERN Stack Developer | JavaScript & TypeScript | Frontend Performance Specialist
+  🚀 Full Stack (MERN) Developer | JavaScript & TypeScript | Frontend Performance Specialist
 </h3>
 
 <p align="center">
